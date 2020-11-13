@@ -9,3 +9,4 @@ with open('C:\KockpitStudio\ETLJobs\test.json') as f:
 
 # Output: {'name': 'Bob', 'languages': ['English', 'Fench']}
 print(data)
+
