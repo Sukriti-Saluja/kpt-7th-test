@@ -5,3 +5,4 @@ print("sum is",sum)
 mul = num1*num2
 print("Product is",mul);
 
+print('hello i am mahesh')
